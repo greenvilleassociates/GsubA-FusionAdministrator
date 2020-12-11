@@ -1,0 +1,4 @@
+This is the base directory for Fusion Administrator.  <ROOT><FUSIONADMINISTRATOR>
+It is expected that Fusionshell is in the directory.  <ROOT><FUSIONSHELL>
+It is expected that FusionOpen is in the directory.   <ROOT><FUSIONOPEN>
+It is expected that FusionPro is in the directory.    <ROOT><FUSIONPRO>
